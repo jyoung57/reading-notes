@@ -1,4 +1,4 @@
-# Reading-Notes
+# `Reading-Notes`
 This is my reading notes for <en>102n1</en>
 
 ## Explain Growth Mindset
