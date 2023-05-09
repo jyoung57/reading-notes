@@ -18,4 +18,4 @@ Reminders to stay in ***Growth Mindset***
 
 I'm looking forward to working with everyone :thumbsup:
 
-Please visit my page when you have time [https://github.com/jyoung57]
+Please visit my [page](https://github.com/jyoung57) when you have time!!!
