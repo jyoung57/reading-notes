@@ -12,7 +12,7 @@ Growth Mindset
 
 Reminders to stay in ***Growth Mindset***
 
-- Create a schedule to stay on task daily
-- Avoid distractions that take me off task
-- Create an accomplishment checklist that allows me to see progress
+1. Create a schedule to stay on task daily
+2. Avoid distractions that take me off task
+3. Create an accomplishment checklist that allows me to see progress
 
