@@ -16,3 +16,6 @@ Reminders to stay in ***Growth Mindset***
 2. Avoid distractions that take me off task
 3. Create an accomplishment checklist that allows me to see progress
 
+I'm looking forward to working with everyone :thumbsup:
+
+Please visit my page when you have time [https://github.com/jyoung57]
