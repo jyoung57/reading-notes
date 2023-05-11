@@ -10,4 +10,6 @@
 
 - [Learning Markdown](https://jyoung57.github.io/reading-notes/code-102/01-Learning-Markdown)
 
+- [Revisions and the Cloud](https://jyoung57.github.io/reading-notes/code-102/03-RevisionsAndTheCloud)  
+
 ### Code 201 Reading Notes  
