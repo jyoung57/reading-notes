@@ -25,4 +25,4 @@ Today we learned about what items would be needed for a Coder's Computer.  The f
 -touch new-project/newfile.md - change the name of the new-project file to newfile.md  
 -ls projects/new-project - displays folders within projects/new-project folder
 
-☮️
+# ☮️
