@@ -1,8 +1,8 @@
 # Welcome To My Homepage
 
-> YOU ARE NOW GOING TO IMMERSE YOURSELF INTO A WORLD OF DEVELOPERS
+> ## YOU ARE NOW GOING TO IMMERSE YOURSELF INTO A WORLD OF DEVELOPERS
 
-## <p style="text-align: center;">Table of Contents</p>  
+## Table of Contents  
 
 ### Code 102 Reading Notes  
   
