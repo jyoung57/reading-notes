@@ -1,6 +1,6 @@
 # Welcome To My Homepage
 
->### <p style="text-align: center;">YOU ARE NOW GOING TO IMMERSE YOURSELF INTO A WORLD OF DEVELOPERS</p>
+> YOU ARE NOW GOING TO IMMERSE YOURSELF INTO A WORLD OF DEVELOPERS
 
 ## <p style="text-align: center;">Table of Contents</p>  
 
