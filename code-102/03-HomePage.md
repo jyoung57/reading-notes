@@ -14,7 +14,7 @@
 
 - [Structure with HTML](https://jyoung57.github.io/reading-notes/code-102/04-StructureWithHTML)  
 
-- [Upcoming Reading Notes](https://jyoung57.github.io/reading-notes/code-102/05-ReadingNotes)  
+- [Using CSS](https://jyoung57.github.io/reading-notes/code-102/05-UsingCSS)  
 
 - [Upcoming Reading Notes](https://jyoung57.github.io/reading-notes/code-102/06-ReadingNotes)  
 

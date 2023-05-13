@@ -1,7 +1,7 @@
 
 ># <span style="color:green"> What is CSS?  </span>
 
-<span style="color:red">* **Cascading Style Sheet (CSS)** - A computer language for laying out and structuring web pages (HTML or XML). This language contains coding elements and is composed of these “cascading style sheets” which are equally called CSS files.  </span>
+<span style="color:red">* **Cascading Style Sheet (CSS)** - A computer langauge for laying out and structuring web pages (HTML or XML). This language contains coding elements and is composed of these “cascading style sheets” which are equally called CSS files.  </span>
 
 ># <span style="color:Purple">Terms To Know:  </span>
 
