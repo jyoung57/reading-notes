@@ -50,3 +50,12 @@ The CPU is the processor that controls the entire computer.  The software is wha
 
 4. What is information received from the user called?  
 &nbsp; &nbsp;Input. 
+
+># Primitive Data Types:  
+* string - words within ""  
+* number - numbers not words 
+* bigint - numbers so big they are too big to enter  
+* boolean - if using true/false  
+*undefined - has no true definition, not assigned  
+* symbols - a built in object whose constructor returns a symbol  
+* null - the equivalent of nothing.  Not 0, but nothing
