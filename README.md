@@ -20,4 +20,4 @@ I'm looking forward to working with everyone :thumbsup:
 
 Please visit my [page](https://github.com/jyoung57) when you have time!!!  
 
-### Table Of Contents
+### [Table Of Contents](https://jyoung57.github.io/reading-notes/code-102/03-HomePage)
