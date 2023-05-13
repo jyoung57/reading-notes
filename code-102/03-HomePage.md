@@ -16,7 +16,7 @@
 
 - [Using CSS](https://jyoung57.github.io/reading-notes/code-102/05-UsingCSS)  
 
-- [Upcoming Reading Notes](https://jyoung57.github.io/reading-notes/code-102/06-ReadingNotes)  
+- [JavaScript Introduction](https://jyoung57.github.io/reading-notes/code-102/06-JavaScriptIntro)  
 
 - [Upcoming Reading Notes](https://jyoung57.github.io/reading-notes/code-102/07-ReadingNotes)  
 
