@@ -52,7 +52,7 @@ The CPU is the processor that controls the entire computer.  The software is wha
 &nbsp; &nbsp;Input. 
 
 ># Primitive Data Types:  
-* string - words within ""  
+* string - words within ''  
 * number - numbers not words 
 * bigint - numbers so big they are too big to enter  
 * boolean - if using true/false  
