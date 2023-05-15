@@ -28,7 +28,8 @@
 * A list of parameters to the function, enclosed in parentheses and separated by commas. 
 * The JavaScript statements that define the function, enclosed in curly brackets, { /* … */ }. 
 
-># Questions: 
+># Questions:  
+
 1. What is control flow? 
 - Is the order in which the computer executes statements in a script.  
 
