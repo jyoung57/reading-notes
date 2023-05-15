@@ -1,7 +1,7 @@
 ># What is Control Flow?  
 
-- Control flow: is the order in which the computer executes statements in a script.  
-- Functions: A block of code designed to perform a particular task.  I'ts executed when "something" invokes it.  
+- Control flow: Is the order in which the computer executes statements in a script.  
+- Functions: A block of code designed to perform a particular task.  It's executed when "something" invokes it.  
 - Operator - This assigns a value to a variable.  
 
 ># Types of Operaters  
@@ -27,3 +27,16 @@
 * The name of the function. 
 * A list of parameters to the function, enclosed in parentheses and separated by commas. 
 * The JavaScript statements that define the function, enclosed in curly brackets, { /* … */ }. 
+
+># Questions: 
+1. What is control flow? 
+- Is the order in which the computer executes statements in a script.  
+
+2. What is a JavaScript function? 
+- A block of code designed to perform a particular task.  It's executed when "something" invokes it. 
+
+3. What does it mean to invoke or call a function? 
+- To perform the specified actoins with the indicated parameters.  
+
+4. Where are the parenthesis for when you define a function? 
+- After the name of the function. 
