@@ -18,7 +18,7 @@
 
 - [JavaScript Introduction](https://jyoung57.github.io/reading-notes/code-102/06-JavaScriptIntro)  
 
-- [Upcoming Reading Notes](https://jyoung57.github.io/reading-notes/code-102/07-ReadingNotes)  
+- [Control Flow](https://jyoung57.github.io/reading-notes/code-102/07-ControlFlow)  
 
 - [Upcoming Reading Notes](https://jyoung57.github.io/reading-notes/code-102/08-ReadingNotes)  
 
