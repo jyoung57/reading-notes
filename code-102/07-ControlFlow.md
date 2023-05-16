@@ -10,7 +10,7 @@
 - Comparison Operators: A comparison operator compares its operands and returns a logical value based on whether the comparison is true.  Example; true/false with ===  
 - Arithmetic Operators: An arithmetic operator takes numerical values (either literals or variables) as their operands and returns a single numerical value.  Example; math.  
 - Bitwise Operators: A bitwise operator treats their operands as a set of 32 bits (zeros and ones), rather than as decimal, hexadecimal, or octal numbers.  This uses binary representation.  
-- Logical Operators: Logical operators are typically used with Boolean (logical) values; when they are, they return a Boolean value. However, the && and "||" operators actually return the value of one of the specified operands, so if these operators are used with non-Boolean values, they may return a non-Boolean value.  Example; And, Or, Not.  
+- Logical Operators: Logical operators are typically used with Boolean (logical) values; when they are, they return a Boolean value. However, the && and (||) operators actually return the value of one of the specified operands, so if these operators are used with non-Boolean values, they may return a non-Boolean value.  Example; And, Or, Not.  
 - BigInt Operators: A special numeric type that provides support for integers of arbitrary length.  
 - String Operators: In addition to the comparison operators, which can be used on string values, the concatenation operator (+) concatenates two string values together, returning another string that is the union of the two operand strings.  
 - Conditional Operator: An operator that requires three operands.  Similar to if/then statements.  
