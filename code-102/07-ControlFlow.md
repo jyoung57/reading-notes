@@ -40,4 +40,4 @@
 - To perform the specified actoins with the indicated parameters.  
 
 4. Where are the parenthesis for when you define a function? 
-- After the name of the function. 
+- To add parameters.  
