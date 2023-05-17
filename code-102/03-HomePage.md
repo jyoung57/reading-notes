@@ -20,7 +20,7 @@
 
 - [Control Flow](https://jyoung57.github.io/reading-notes/code-102/07-ControlFlow)  
 
-- [Upcoming Reading Notes](https://jyoung57.github.io/reading-notes/code-102/08-ReadingNotes)  
+- [Operators and Loops](https://jyoung57.github.io/reading-notes/code-102/08-OperatorsAndLoops)  
 
 ### Code 201 Reading Notes  
 
