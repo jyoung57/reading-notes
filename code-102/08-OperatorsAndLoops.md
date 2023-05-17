@@ -14,9 +14,13 @@
 ># Questions: 
 
 1. What is an expression in JavaScript?  
+- An expression is a valid unit of code that resolves to a value.  
 
 2. Why would we use a loop in our code?  
+- To avoid using several if/else lines to get a specific response.  
 
 3. When does a for loop stop executing?  
+- Either once the condition is met or once the update has been met.  
 
 4. How many times will a while loop execute?  
+- It will continue to loop until the condition is met.  
