@@ -50,4 +50,4 @@ Right click and choose Save Image As.  You can also copy the image web address f
 
 6. How is the <meta> HTML tag used when specifying metadata?
 
-* 
+* < meta> tags are always placed within the head element.  They are typically used to specify character set, page description, keywords, author and viewport settings.  
