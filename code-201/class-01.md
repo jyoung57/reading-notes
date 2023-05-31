@@ -51,3 +51,31 @@ Right click and choose Save Image As.  You can also copy the image web address f
 6. How is the <meta> HTML tag used when specifying metadata?
 
 * < meta> tags are always placed within the head element.  They are typically used to specify character set, page description, keywords, author and viewport settings.  
+
+>## Miscellaneous 
+
+1. What is the first step to designing a Website? 
+
+* Determining what you what to accomplish. 
+
+2. What is the most important question to answer when designing a Website? 
+
+>## Semantics 
+
+1. Why should you use an < h1> element over a < span> element to display a top level heading? 
+
+* 
+
+2. What are the benefits of using semantic tags in our HTML?
+
+* 
+
+>## What is JavaScript?  
+
+1. Describe 2 things that require JavaScript in the Browser? 
+
+* 
+
+2. How can you add JavaScript to an HTML document? 
+
+* 
