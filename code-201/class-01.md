@@ -60,22 +60,30 @@ Right click and choose Save Image As.  You can also copy the image web address f
 
 2. What is the most important question to answer when designing a Website? 
 
+* What kind of action do I want users to take once they are on my page? 
+
 >## Semantics 
 
 1. Why should you use an < h1> element over a < span> element to display a top level heading? 
 
-* 
+* Using < h1> instead of < span> allows for a semantic value to be used and additional benefits will apply. 
 
 2. What are the benefits of using semantic tags in our HTML?
 
-* 
+* Search engines will consider its contents as important key words to influence the page's search rankings.  
+* Screen readers can use it as a signpost to help visually imparied users navigate a page.
+* Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+* Semantic naming mirrors proper custom element/component naming
+* Suggests to the developer the type of data that will be populated
 
 >## What is JavaScript?  
 
 1. Describe 2 things that require JavaScript in the Browser? 
 
-* 
+* If you want to create dynamic content, or control multimedia, you will need JS. 
 
 2. How can you add JavaScript to an HTML document? 
 
-* 
+* You can script it in, the same way you do CSS.
+
+>### THINGS I WANT TO KNOW MORE ABOUT !!! 
