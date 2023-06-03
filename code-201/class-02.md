@@ -1,5 +1,9 @@
 > # Basics of HTML, CSS and JS
 
+The topic of this reading is extremely important for the better understanding of how to use HTLM, CSS and JS for me to become a better developer. 
+
+>## Basics of HTML
+
 1. Why is it important to use semantic elements in our HTML?
 
 - So that you are able to properly mark up pages and keep the structure valid.
@@ -53,10 +57,19 @@
 
 1. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
 
-* Condition; 
+* Condition; true
+
 2. What is the use of an else if?
+
+* It helps you run a specific block of a program if the condition is true or else, it will check other conditions.  It is used to control the flow or to determine the rules in a program.
+
 3. List 3 different types of comparison operators.
+
+* *===, !==, < >, <= >=*
+
 4. What is the difference between the logical operator && and ||?
+
+* && = AND, || = OR
 
 
 ## Things I want to know more about !!!
