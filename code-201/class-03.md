@@ -4,17 +4,19 @@
 
 1. When should you use an unordered list in your HTML document?
 
-* 
+* When you are wanting to display a bulleted list. 
 
 2. How do you change the bullet style of unordered list items?
 
-* 
+* You can next a <ul> element that will indent the bullet.  Or use a list-style-type.
 
 3. When should you use an ordered list vs an unorder list in your HTML document?
 
-* 
+* If you list is meaningful, you should use an <ol> element. 
 
 4. Describe two ways you can change the numbers on list items provided by an ordered list?
+
+* The use of type-start or a combination of nesting with ul or ol. 
 
 >## Learn CSS
 
@@ -60,3 +62,5 @@
 6. Give an example of when a Loop is useful in JavaScript.
 
 * 
+
+>## Things I want to know more about
