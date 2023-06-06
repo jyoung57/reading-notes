@@ -8,11 +8,11 @@
 
 2. How do you change the bullet style of unordered list items?
 
-- You can next a <ul> element that will indent the bullet. Or use a list-style-type.
+<!-- - You can next a <ul> element that will indent the bullet. Or use a list-style-type. -->
 
 3. When should you use an ordered list vs an unorder list in your HTML document?
 
-- If you list is meaningful, you should use an <ol> element.
+<!-- - If you list is meaningful, you should use an <ol> element. -->
 
 4. Describe two ways you can change the numbers on list items provided by an ordered list?
 
