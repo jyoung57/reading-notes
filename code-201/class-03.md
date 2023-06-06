@@ -28,7 +28,7 @@
 
 2. List and describe the four parts of an HTML elements box as referred to by the box model.
 
--
+- Content , padding, border and margin.
 
 > ## Learn JS
 
