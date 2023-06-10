@@ -74,6 +74,8 @@
 
 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
 
--
+- Job Interview Readiness - I personally think this will give my opportunity to use my experience partnering with other developers in Pair Programming to answer behavoiral questions during interviews. It will give me real worls scenarios to use while responding.
+
+* Learning from fellow students - I beileve this will really help me learn better coding and overall better syntax when entering code. Being able to learn from others is always beneficial to making me a better developer.
 
 ## Things I want to know more about?
