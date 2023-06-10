@@ -15,3 +15,27 @@
 
 * 
 
+## CSS Layout
+
+### CSS Layout: Normal Flow and Positioning
+
+1. What is meant by “normal flow”?
+
+* 
+
+2. What are a few differences between block-level and inline elements?
+
+* 
+
+3. ___ positioning is the default for every html element.
+
+* 
+
+4. Name a few advantages to using absolute positioning on an element.
+
+* 
+
+5. What is a key difference between fixed positioning and absolute positioning?
+
+* 
+
