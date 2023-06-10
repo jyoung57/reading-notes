@@ -39,3 +39,24 @@
 
 * 
 
+## Learn JS
+
+### Functions-Reusable Blocks of Code
+
+1. Describe the difference between a function declaration and a function invocation.
+
+* 
+
+2. What is the difference between a parameter and an argument?
+
+* 
+
+## Miscellaneous
+
+### 6 Reasons for Pair Programming
+
+1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+
+* 
+
+## Things I want to know more about?
