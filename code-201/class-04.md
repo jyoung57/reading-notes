@@ -54,7 +54,7 @@
 
 5. What is a key difference between fixed positioning and absolute positioning?
 
--
+- Absolute positioning fixes an element in place relative to its nearest positioned ancestor (the initial containing block if there isn't one), fixed positioning usually fixes an element in place relative to the visible portion of the viewport.
 
 ## Learn JS
 
@@ -62,11 +62,11 @@
 
 1. Describe the difference between a function declaration and a function invocation.
 
--
+- Declaration declares the creation of variables and functions. Invocation executes a piece of code to retrieve its value.
 
 2. What is the difference between a parameter and an argument?
 
--
+- The values that are declared within a function when the function is called are known as an argument. Whereas, the variables that are defined when the function is declared are known as a parameter.
 
 ## Miscellaneous
 
