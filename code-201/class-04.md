@@ -34,19 +34,23 @@
 
 1. What is meant by “normal flow”?
 
--
+- Normal flow is how the document is layed out before any CSS additions. You should begin your page in normal flow then add your styles after.
 
 2. What are a few differences between block-level and inline elements?
 
--
+- By default, a block-level element's content fills the available inline space of the parent element containing it, growing along the block dimension to accommodate its content. The size of inline-level elements is just the size of their content. You can set width or height on some elements that have a default display property value of inline, like <img>, but display value will still remain inline.
 
-3. \_\_\_ positioning is the default for every html element.
+3. \_\_\_\_ positioning is the default for every html element.
 
--
+- Static Positioning, which is it's "normal" position.
 
 4. Name a few advantages to using absolute positioning on an element.
 
--
+- Absolute Positioning allows the developer to freely move the box around without limitations.
+
+* It allows you to create isolated features that don't interfere with the layout of other elements on the page.
+
+* You can adjust top, center, left or right.
 
 5. What is a key difference between fixed positioning and absolute positioning?
 
