@@ -4,13 +4,23 @@
 
 1. What is a real world use case for the alt attribute being used in a website?
 
+* Anytime you add an image within your html, you can use the alt attribute which names the image.
+
 2. How can you improve accessibility of images in an HTML document?
+
+* Using video control, audio control and image controls to label these multimedia options.
 
 3. Provide an example of when the figure element would be useful in an HTML document.
 
+* In the event that you add a picture in your code, you can use the figure attribute to label the image.
+
 4. Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community.
 
+* SVG has limited scale ability and is a better over all as it pertains to animation. 
+
 5. What image type would you use to display a screenshot on your website and why?
+
+* You should use a lossless format for screenshots.  Probably PNG or lossless WebP.
 
 # Learn CSS
 
