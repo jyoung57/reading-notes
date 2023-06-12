@@ -44,6 +44,6 @@
 
 5. Describe two ways you could add spacing around the characters displayed in an h1 element.
 
-
+* You can do inline CSS or external css
 
 ## Things I want to know more about
