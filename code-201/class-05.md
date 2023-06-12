@@ -26,12 +26,24 @@
 
 1. Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
 
+* Foreground color is the color elements in the front, mainly words.  The background is any color that does not have a foreground color.  
+
 2. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
+
+* I would add back ground color that meshes with the words that are associated with it, as well as adding boxes to make things proportioned. 
 
 3. What should you consider when choosing fonts for an HTML document?
 
+* Using web safe fonts to ensure that your font is visible. 
+
 4. What do font-size, font-weight, and font-style do to HTML text elements?
 
+* Font size - Changes the size of the font
+* Font weight - Controls the thickness of the font.
+* Font style - Controls the type of font and how it looks. 
+
 5. Describe two ways you could add spacing around the characters displayed in an h1 element.
+
+
 
 ## Things I want to know more about
