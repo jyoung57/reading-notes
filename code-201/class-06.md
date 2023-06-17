@@ -1,4 +1,4 @@
-> # Read Clas 06
+> # Read Class 06
 
 ## JavaScript Object Basic
 
