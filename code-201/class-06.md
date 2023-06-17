@@ -12,7 +12,7 @@
 
 3. How do objects differ from arrays?
 
-- An object literal in JavaScript allows us to create plain JavaScript objects. It consists of a list of key-value pairs, each separated by a comma and wrapped inside curly braces.
+- Arrays use numbers to acces elements and objects use names to access elements.  So where arrays have indexes for the data stored in them, objects have multiple different properties that consist of key value pairs.
 
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
 
