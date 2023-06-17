@@ -16,7 +16,7 @@
 
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
 
-- If an object property name is held in a variable, then you can not use dot noation and bracket notation is required.
+- If an object property name is held in a variable, then you can not use dot notation and bracket notation is required.
 
 5. Evaluate the code below. What does the term this refer to and what is the advantage to using this?
 
