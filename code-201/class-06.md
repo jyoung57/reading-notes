@@ -42,3 +42,5 @@ const dog = {
 2. Briefly describe the relationship between the DOM and JavaScript.
 
 - DOM is what makes your webpages function, while JS is what allows you to make the web pages do what you want them to do. Without DOM, JS wont work.
+
+## > Things I Want to Know More About
