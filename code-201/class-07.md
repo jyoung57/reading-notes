@@ -39,6 +39,6 @@
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
 NOTE: This is a very common front end developer interview question.
 
-* 
+* I previously worked at Ford Motor Credit, where I held several different positiions.  One position was Team Lead over our Investigation department that investigated inquiries regarding potential customers.  One of the systems we used had a built in parameter that allowed us as users to simply input minimal data and receive a magnitude of information regarding the potential customer.  That system was our prototype during our investigation. Once we received that information, we would update our repository with the information for another user on the back end could make a decision on brining the customer in or now.  The secondary information is the interitance as it has properties and characteristics from another source while having its own properties as well. 
 
 ## Things I want to know more about.
