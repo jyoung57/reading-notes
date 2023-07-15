@@ -1,6 +1,6 @@
 ># Read-Class 13
 
-## Local Storage and How To Use It On Websites
+>## Local Storage and How To Use It On Websites
 
 1. Why would a developer use local storage for a web application?
 
@@ -13,3 +13,5 @@
 3. Local storage can store what type of data? How would you convert it to that type before storing?
 
 * The localStorage can store only the key of string datatype and a value of string datatype. Literally, localStorage can store only strings. Even if you need to store an integer you need to convert it into a string and have to store it.
+
+>## Things I Want to Know More About
