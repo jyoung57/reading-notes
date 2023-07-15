@@ -1,4 +1,4 @@
-># Read-Clas 12
+># Read-Class 12
 
 ## JavaScript Canvas
 
